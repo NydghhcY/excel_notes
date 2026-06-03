@@ -10,7 +10,7 @@
 
 <img width="558" height="386" alt="image" src="https://github.com/user-attachments/assets/2936df34-392f-4b86-83e6-b8c48b9e1791" />
 
-#数据导入
+# 数据导入
 ## 1.CSV格式数据导入
 新建空白工作簿 -> 数据 -> 获取数据 -> 导入数据 -> 文本格式（编码）以预览文件为准 -> 分隔符号一般选逗号，结合实际文件中的符号选择
 
